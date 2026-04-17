@@ -3,6 +3,7 @@ const CORE_ASSETS = [
   "./",
   "./index.html",
   "./form.html",
+  "./kayit.html",
   "./manifest.webmanifest",
   "./sw.js",
   "./vendor/xlsx.full.min.js",
